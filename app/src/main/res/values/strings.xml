@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Exam1</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="convert_title">Convert my money app</string>
+    <string name="convert_from">Converting from:</string>
+    <string name="convert_to">Converting to</string>
+
+    <string name="convert_settings_title">Convert my money app Settings</string>
+    <string name="convert_settings_From">Select Convert From:</string>
+    <string name="convert_settings_to">Select Convert To:</string>
+
+    <string name="btn_settings">Select currency</string>
+    <string name="btn_return">Return</string>
+    <array name="currency_array">
+        <item>Dlls</item>
+        <item>Euros</item>
+        <item>Mxn</item>
+    </array>
+</resources>
