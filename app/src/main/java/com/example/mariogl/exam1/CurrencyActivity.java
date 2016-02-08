@@ -1,6 +1,7 @@
 package com.example.mariogl.exam1;
 
 import android.content.Context;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
@@ -20,7 +21,8 @@ public class CurrencyActivity extends ActionBarActivity {
     EditText currencyEditText;
 
     public void goToSettings(View view) {
-
+        Intent goToSettings = new Intent(this, SettingsActivity.class);
+        startActivity(goToSettings);
     }
 
     public void convertMyMoney(View view) {

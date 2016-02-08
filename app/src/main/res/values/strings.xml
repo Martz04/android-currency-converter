@@ -12,9 +12,10 @@
 
     <string name="btn_settings">Select currency</string>
     <string name="btn_return">Return</string>
-    <array name="currency_array">
+    <string-array name="currency_array">
         <item>USD</item>
         <item>EUR</item>
         <item>MXN</item>
-    </array>
+    </string-array>
+    <string name="title_activity_settings">SettingsActivity</string>
 </resources>
