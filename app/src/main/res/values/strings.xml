@@ -4,7 +4,7 @@
 
     <string name="convert_title">Convert my money app</string>
     <string name="convert_from">Converting from:</string>
-    <string name="convert_to">Converting to</string>
+    <string name="convert_to">Converting to:</string>
 
     <string name="convert_settings_title">Convert my money app Settings</string>
     <string name="convert_settings_From">Select Convert From:</string>
@@ -13,8 +13,8 @@
     <string name="btn_settings">Select currency</string>
     <string name="btn_return">Return</string>
     <array name="currency_array">
-        <item>Dlls</item>
-        <item>Euros</item>
-        <item>Mxn</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>MXN</item>
     </array>
 </resources>
